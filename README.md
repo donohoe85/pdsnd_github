@@ -12,4 +12,7 @@ This project is about working with GitHub and version control
 .gitignore
 
 ### Credits
-Credit to the Udacity course and the knowledge articles. 
+Credit to the Udacity course and the knowledge articles.
+
+### More Info
+This has been fun learning about Git Bash and Git Hub
