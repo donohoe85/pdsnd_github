@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+9/13/20
 
 ### Project Title
-Replace the Project Title
+Udacity GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about working with GitHub and version control
 
 ### Files used
-Include the files used
+._bikeshare_2.py
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to the Udacity course and the knowledge articles. 
