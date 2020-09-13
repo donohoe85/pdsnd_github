@@ -2,7 +2,7 @@
 Sunday 9/13/20
 
 ### Project Title
-Replace the Project Title
+Udacity GitHub project 
 
 ### Description
 Describe what your project is about and what it does
